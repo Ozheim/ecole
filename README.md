@@ -14,3 +14,6 @@ En parallèle, j'ai traduit tous les commentaires du projet en anglais pour amé
 
 
 j'ai fais un peu d'anglais aussi
+
+https://github.com/EpitechMscProPromo2027/T-DEV-700-project-TLS_12/commit/fd62a3e48150cf6fef31bd2b2ea3f9331f2ae119
+https://github.com/EpitechMscProPromo2027/T-DEV-700-project-TLS_12/commit/ffaf248a47a57d56ed60230e8b0b15504ba69545
